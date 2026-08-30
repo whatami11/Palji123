@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Palji123
+- 👋 Hi, I’m Vivek Kumar Pal
 - 👀 I’m interested in Python and web devolopement
 - 🌱 I’m currently learning Django backend dev
 - 💞️ I’m looking to collaborate on ...
